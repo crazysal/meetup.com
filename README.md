@@ -97,4 +97,5 @@ Categories of pairs, it can learn as similar:
 # References
 1. [Learning Text Similarity with Siamese Recurrent Networks](http://www.aclweb.org/anthology/W16-16#page=162)
 2. [Siamese Recurrent Architectures for Learning Sentence Similarity](http://www.mit.edu/~jonasm/info/MuellerThyagarajan_AAAI16.pdf)
-3. [Original text similarity siamese architecture] (https://github.com/dhwajraj/deep-siamese-text-similarity/)
+3. [Original text similarity siamese architecture](https://github.com/dhwajraj/deep-siamese-text-similarity)
+
